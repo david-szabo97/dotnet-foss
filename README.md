@@ -113,7 +113,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | Month | Project  |
 | --------- | --------------- |
 | January   | [EF Core Power Tools](https://github.com/ErikEJ/EFCorePowerTools) |
-| February  | [CvsHelper](https://github.com/JoshClose/CsvHelper) |
+| February  | [CsvHelper](https://github.com/JoshClose/CsvHelper) |
 | March     | [DuckDB.NET](https://github.com/Giorgi/DuckDB.NET) |
 | April     | [Polly](https://github.com/App-vNext/Polly) |
 | May       | [xUnit](https://xunit.net/) |
